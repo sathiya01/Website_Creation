@@ -1,0 +1,142 @@
+
+.main-header {
+    background-color: rgb(221, 206, 206);
+    background-repeat: repeat-x;
+    height:50px;
+}
+.main-ul {
+    /*margin-bottom:3px;*/
+}
+
+.main-ul li {
+    display:inline;
+    padding-right: 2em;
+    margin-left:250px; 
+    line-height:50px;
+}
+
+.list {
+    
+    text-decoration: none;
+    color: #0000ffbb;   
+}
+
+
+a:hover {
+    background-color:rgba(184, 175, 175, 0.315);
+}
+.imgdiv {
+    padding-left:30em;
+   padding-top:2em;
+    width:250px;
+}
+
+.infodiv h1 {
+    font-style:helvetica, sans-serif;
+    font-size:50px;
+    color:#333;
+    text-decoration: underline;
+}
+
+.infodiv p{
+    color:rgba(0, 0, 0, 0.781);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px;
+    
+}
+
+.forbackground {
+    background-image: url('background.png');
+    background-color:white;
+    background-blend-mode: multiply;
+    height:600px;
+    padding-top:0px;
+    margin:0px;
+}
+
+.about-header h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    font-style: normal;
+    font-size:40px;
+    color:black;
+    padding-top:0px;
+    margin:0px;
+    padding-left:5px;
+}
+
+.about-header p {
+font-family: Arial, Helvetica, sans-serif;
+font-style: oblique;
+font-size: 25px;
+color:rgba(19, 5, 5, 0.87);
+padding-left:30px;
+}
+
+.about-header a {
+    text-decoration: none;
+    color:rgb(5, 0, 0);
+
+}
+
+.about-header button {
+    float: right;
+    border-radius: 10px;
+    color:rgb(5, 0, 0);
+    background-color:grey;
+    border:none;
+}
+
+.about-header button:hover {
+
+    background-color:rgba(128, 128, 128, 0.918);
+}
+
+.medlink p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+
+}
+.medlink a {
+    text-decoration: none;
+    padding-top:1px;
+}
+
+.medlink a:hover {
+    background-color:rgb(205, 205, 219);
+}
+
+.steps-body h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+.steps-body p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: rgb(46, 44, 44);
+}
+
+.forbackground h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color:rgb(39, 34, 34);
+}
+
+.forbackground ul {
+    list-style-type: square;
+}
+.final {
+    text-decoration: none;
+    color:rgb(192, 12, 12)
+}
+.join {
+    display: flex;
+   
+}
+
+
+
+
+
+
+
